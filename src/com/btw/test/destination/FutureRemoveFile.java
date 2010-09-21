@@ -1,4 +1,4 @@
-package com.btw.test.removefile;
+package com.btw.test.destination;
 
 public class FutureRemoveFile {
 	public FutureRemoveFile() {
